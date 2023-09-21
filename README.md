@@ -1,0 +1,2 @@
+# Web-Scraping-Project-3
+Web scraping program for the website: https://nces.ed.gov/ccd/districtsearch/district_list.asp?Search=1&amp;details=1&amp;State=06&amp;DistrictType=1&amp;DistrictType=2&amp;DistrictType=3&amp;DistrictType=4&amp;DistrictType=5&amp;DistrictType=6&amp;DistrictType=7&amp;DistrictType=8&amp;DistrictType=9&amp;NumOfStudentsRange=more&amp;NumOfSchoolsRange=more&amp;DistrictPageNum=1
